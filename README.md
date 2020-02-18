@@ -6,7 +6,7 @@ I want to build a bike system that is similar to the current TFL boris bikes sys
 It will emulate docking stations, bikes, and infrastructure
 
 # Build status
-![buildstatus](https://{williamjgrace}.semaphoreci.com/badges/{boris-bikes}.svg)
+![buildstatus](https://williamjgrace.semaphoreci.com/badges/boris-bikes.svg)
 
 # Tech
 * [Ruby](https://www.ruby-lang.org/en/)
